@@ -50,4 +50,3 @@ class Server:
             return []
 
         return dataset[start_index:min(end_index, len(dataset))]
-        
